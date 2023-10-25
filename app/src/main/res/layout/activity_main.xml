@@ -7,14 +7,10 @@
     tools:context=".MainActivity">
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/greenButton"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:backgroundTint="#0D370A"
-        android:text="Push Me!"
-        android:textColor="#BC5C5C"
-        android:textSize="40dp"
-        android:textStyle="italic"
+        style="@style/buttonStyle"
         tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="0dp" />
 

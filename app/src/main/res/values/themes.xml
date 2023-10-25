@@ -6,4 +6,12 @@
     </style>
 
     <style name="Theme.BigGoButton" parent="Base.Theme.BigGoButton" />
+
+    <style name="buttonStyle">
+        <item name="android:backgroundTint">#0D370A</item>
+        <item name="android:text">@string/button_text</item>
+        <item name="android:textColor">#D62525</item>
+        <item name="android:textSize">40dp</item>
+        <item name="android:textStyle">italic</item>
+    </style>
 </resources>
